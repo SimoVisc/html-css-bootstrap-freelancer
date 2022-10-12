@@ -6,6 +6,11 @@
     max-width:100%;
     border-radius:5%;
 }
+/* ABOUT */
+.ms-btn{
+    width: 20%;
+    border: #fff solid;
+}
 /* FORM */
 form{
     color:black;
@@ -17,3 +22,4 @@ form{
 .ms-border{
     border:none;
 }
+
