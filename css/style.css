@@ -14,3 +14,30 @@
 .ms-bg-secondary-color-light{
     background-color: var(--ms--secondary-color-light);
 }
+/* TYPO */
+body{
+    color:#fff;
+}
+.sm-bg-black{
+    color:black;
+}
+/* HEADER */
+.ms-main-nav ul{
+    display:flex;
+    justify-content: flex-end;
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+.ms-main-nav li{
+    padding-left: 0.5rem;
+}
+/* HERO */
+.avatar{
+    max-width: 300px;
+}
+.sm-img-card{
+    width:100%;
+    border-radius:5%
+
+}
