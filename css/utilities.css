@@ -8,3 +8,12 @@
 .ms-bg-secondary-color-light{
     background-color: var(--ms--secondary-color-light);
 }
+.ms-hr{
+    width: 20%;
+    border-top: 5px solid #fff;
+}
+/* CONTAINERS */
+.ms-container-small{
+    max-width:61.25rem;
+    width:70%
+}
