@@ -1,0 +1,8 @@
+/* HERO */
+.avatar{
+    max-width: 300px;
+}
+.sm-img-card{
+    max-width:100%;
+    border-radius:5%;
+}

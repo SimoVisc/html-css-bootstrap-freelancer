@@ -1,0 +1,11 @@
+/* HEADER */
+.ms-main-nav ul{
+    display:flex;
+    justify-content: flex-end;
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+.ms-main-nav li{
+    padding-left: 0.5rem;
+}

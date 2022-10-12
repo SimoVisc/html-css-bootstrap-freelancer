@@ -1,0 +1,10 @@
+/* UTILITIES */
+.ms-bg-primary-color{
+    background-color: var(--ms--primary-color);
+}
+.ms-bg-secondary-color{
+    background-color: var(--ms--secondary-color);
+}
+.ms-bg-secondary-color-light{
+    background-color: var(--ms--secondary-color-light);
+}
